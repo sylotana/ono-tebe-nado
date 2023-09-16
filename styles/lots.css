@@ -3,24 +3,24 @@
 \*------------------------------------*/
 
 .lots {
-  padding-top: 180px;
-  padding-bottom: 181px;
+  padding-top: 11.25rem;
+  padding-bottom: 11.3125rem;
 }
 
 .lots__heading {
-  margin-bottom: 27px;
+  margin-bottom: 1.6875rem;
 }
 
 .lots__list {
   list-style: none;
-  margin-bottom: 30px;
+  margin-bottom: 1.875rem;
 }
 
 .lots__list-item {
-  min-height: 450px;
+  min-height: 28.125rem;
 }
 
 .lots__more {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.25rem;
 }

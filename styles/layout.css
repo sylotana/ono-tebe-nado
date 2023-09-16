@@ -3,15 +3,15 @@
 \*------------------------------------*/
 
 .container {
-  max-width: 1440px;
+  max-width: 90rem;
   margin: 0 auto;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 3.125rem;
+  padding-right: 3.125rem;
 }
 
 .container-inner {
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
 }
 
 .grid {

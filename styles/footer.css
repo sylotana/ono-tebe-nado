@@ -3,9 +3,9 @@
 \*------------------------------------*/
 
 .footer {
-  padding-top: 180px;
-  padding-bottom: 90px;
-  font-size: 18px;
+  padding-top: 11.25rem;
+  padding-bottom: 5.625rem;
+  font-size: 1.125rem;
 }
 
 .footer__address {
@@ -20,12 +20,12 @@
   justify-self: end;
   list-style: none;
   display: flex;
-  gap: 48px;
+  gap: 3rem;
 }
 
 .footer__social-item {
-  width: 48px;
-  height: 48px;
+  width: 3rem;
+  height: 3rem;
 }
 
 .footer__social-link {

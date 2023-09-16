@@ -4,12 +4,12 @@
 
 .about__logo {
   grid-column: 1 / span 1;
-  height: 240px;
-  width: 240px;
+  max-height: 15rem;
+  max-width: 15rem;
   background-color: black;
   border-radius: 50%;
   justify-self: center;
-  padding: 63px 46px;
+  padding: 3.9375rem 2.875rem;
 }
 
 .about__logo-image {
@@ -18,17 +18,17 @@
 }
 
 .about__info {
-  padding-top: 100px;
+  padding-top: 6.25rem;
   grid-column: 2 / span 2;
 }
 
 .about__heading {
-  margin-bottom: 100px;
+  margin-bottom: 6.25rem;
 }
 
 .about__text {
-  font-size: 20px;
+  font-size: 1.25rem;
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 1.5625rem;
 }
