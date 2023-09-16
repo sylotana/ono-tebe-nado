@@ -1,0 +1,106 @@
+/*------------------------------------*\
+  #COMPONENTS
+\*------------------------------------*/
+
+/*
+  #Address
+*/
+
+.address {
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+  font-style: normal;
+  width: 240px;
+  line-height: 1.5rem;
+}
+
+/*
+  #Link
+*/
+
+.link {
+  text-decoration: none;
+  border-bottom: 1px solid black;
+}
+
+.link_active {
+  border-bottom: none;
+}
+
+/*
+  #Button
+*/
+
+.bet-button {
+  max-height: 52px;
+  text-transform: uppercase;
+  font-family: inherit;
+  font-size: 22px;
+  padding: 12px 32px;
+  color: #fff;
+  border: 1px solid #fff;
+  background: transparent;
+}
+
+/*
+  #Typography
+*/
+
+.h2 {
+  font-size: 40px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+/*
+  #Card
+*/
+
+.card-link {
+  display: block;
+  text-decoration: none;
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+  z-index: 1;
+  position: relative;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 50px 40px;
+  height: 100%;
+}
+
+.card--type_film {
+  background: url(../images/card-lot-01.jpg);
+}
+
+.card--type_book {
+  background: url(../images/card-lot-02.jpg);
+}
+
+.card--type_art {
+  background: url(../images/card-lot-03.jpg);
+}
+
+.card {
+  background-size: cover;
+}
+
+.card__title {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.2; /* 26.4px */
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.card__description {
+  font-size: 20px;
+  line-height: 1.2; /* 24px */
+}

@@ -1,0 +1,20 @@
+/*------------------------------------*\
+  #LAYOUT
+\*------------------------------------*/
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.container-inner {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

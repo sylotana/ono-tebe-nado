@@ -1,0 +1,53 @@
+/*------------------------------------*\
+  #UTILS
+\*------------------------------------*/
+
+.text-transform_uppercase {
+    text-transform: uppercase;
+}
+
+.text-transform_lowercase {
+    text-transform: lowercase;
+}
+
+.text-align--left {
+  text-align: left;
+}
+
+.text-align--center {
+  text-align: center;
+}
+
+.text-align--right {
+  text-align: right;
+}
+
+.letter-spacing-extended {
+  letter-spacing: 0.6em;
+}
+
+.no-letter-spacing {
+  letter-spacing: 0;
+}
+
+.overlay::after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: #000;
+  opacity: .6;
+  pointer-events: none;
+}
+
+.word-space--sm {
+  word-spacing: 17px;
+}
+
+.word-space--md {
+  word-spacing: 22px;
+}
+
+.grid_gap_sm {
+  gap: 25px;
+}

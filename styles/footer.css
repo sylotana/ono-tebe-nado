@@ -1,0 +1,35 @@
+/*------------------------------------*\
+  #FOOTER
+\*------------------------------------*/
+
+.footer {
+    padding-top: 180px;
+    padding-bottom: 90px;
+    font-size: 18px;
+}
+
+.footer__address {
+    justify-self: flex-start;
+}
+
+.footer__nav-list {
+    list-style: none;
+}
+
+.footer__social-list {
+    justify-self: end;
+    list-style: none;
+    display: flex;
+    gap: 48px;
+}
+
+.footer__social-item {
+    width: 48px;
+    height: 48px;
+}
+
+.footer__social-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+}

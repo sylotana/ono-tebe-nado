@@ -1,0 +1,26 @@
+/*------------------------------------*\
+  #LOTS
+\*------------------------------------*/
+
+.lots {
+  padding-top: 180px;
+  padding-bottom: 181px;
+}
+
+.lots__heading {
+  margin-bottom: 27px;
+}
+
+.lots__list {
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+.lots__list-item {
+  min-height: 450px;
+}
+
+.lots__more {
+  text-decoration: none;
+  font-size: 20px;
+}

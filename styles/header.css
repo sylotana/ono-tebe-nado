@@ -1,0 +1,48 @@
+/*------------------------------------*\
+  #HEADER
+\*------------------------------------*/
+
+.header {
+  padding-top: 92px;
+  padding-bottom: 92px;
+  font-size: 18px;
+}
+
+.header__wrapper {
+  height: 109px;
+  width: 100%;
+}
+
+.header__nav {
+  align-self: center;
+}
+
+.header__nav-list {
+  display: flex;
+  gap: 2rem;
+  list-style: circle;
+}
+
+.header__nav-item:first-child {
+  list-style-type: none;
+}
+
+.header__link--active {
+  border: none;
+}
+
+.header__logo {
+  display: block;
+  justify-self: center;
+  width: 148px;
+  height: 105px;
+}
+
+.header__logo-image {
+  height: 100%;
+}
+
+.header__address {
+  justify-self: end;
+  align-self: center;
+}
