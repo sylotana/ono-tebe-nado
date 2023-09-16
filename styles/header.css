@@ -27,7 +27,7 @@
   list-style-type: none;
 }
 
-.header__link--active {
+.header__link_active {
   border: none;
 }
 

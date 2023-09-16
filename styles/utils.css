@@ -10,15 +10,15 @@
   text-transform: lowercase;
 }
 
-.text-align--left {
+.text-align_left {
   text-align: left;
 }
 
-.text-align--center {
+.text-align_center {
   text-align: center;
 }
 
-.text-align--right {
+.text-align_right {
   text-align: right;
 }
 
@@ -40,11 +40,11 @@
   pointer-events: none;
 }
 
-.word-space--sm {
+.word-space_sm {
   word-spacing: 17px;
 }
 
-.word-space--md {
+.word-space_md {
   word-spacing: 22px;
 }
 

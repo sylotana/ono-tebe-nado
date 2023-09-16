@@ -64,15 +64,15 @@
   width: 100%;
 }
 
-.card--type_film {
+.card_type_film {
   background: url(../images/card-lot-01.jpg);
 }
 
-.card--type_book {
+.card_type_book {
   background: url(../images/card-lot-02.jpg);
 }
 
-.card--type_art {
+.card_type_art {
   background: url(../images/card-lot-03.jpg);
 }
 
