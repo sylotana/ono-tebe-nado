@@ -3,11 +3,11 @@
 \*------------------------------------*/
 
 .text-transform_uppercase {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .text-transform_lowercase {
-    text-transform: lowercase;
+  text-transform: lowercase;
 }
 
 .text-align--left {
@@ -36,7 +36,7 @@
   position: absolute;
   inset: 0;
   background-color: #000;
-  opacity: .6;
+  opacity: 0.6;
   pointer-events: none;
 }
 
