@@ -15,6 +15,7 @@
 
 .header__nav {
   align-self: center;
+  text-wrap: nowrap;
 }
 
 .header__nav-list {
